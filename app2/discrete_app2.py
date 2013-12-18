@@ -4,7 +4,7 @@
 # I created my own data set with the letters off the alphabet and gave each edge an arbitrary number
 # I used a python libarary called NetworkX to create the graph to be traversed.
 # I chose to do the nearest neighbor, repeated nearest neighbor, and exhaustive search algorithms.
-# I collaborated with Nick Smith and Nathan Gilles in order to complete this assignment.
+# I collaborated with  and  in order to complete this assignment.
 #
 # RESULTS:
 #   Nearest Neighbor had a time of .0003719 seconds.
