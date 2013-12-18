@@ -1,4 +1,4 @@
-# Robert Werthman CSCI 2824
+# CSCI 2824
 # coding: utf-8
 import csv
 
